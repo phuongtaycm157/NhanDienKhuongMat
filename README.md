@@ -7,7 +7,10 @@
 
 ##### Tiền sử lý
 
-Cài đặt OpenCV cho hệ thống bằng lệnh `pip install opencv-python`
+Cài đặt các thư viện cần thiết: 
+* `pip install opencv-python`
+* `pip install pymongo`
+* `pip install dnspython`
 
 ##### Kích hoạt hệ thống
 
